@@ -1,17 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-     { "id": 4, "title": "Post 3" },
-     { "id": 5, "title": "Post 3" },
-     { "id": 6, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "place": [
+{
+"place": "Hà Nội",
+"id": 1,
+"img": "https://khoahocphattrien.vn/Images/Uploaded/Share/2017/08/09/44.jpg"
+},
+{
+"place": "Hồ Chí Minh",
+"id": 2,
+"img": "https://phathocdoisong.com/data/article/1520718460737776615.jpg"
+},
+{
+"place": "Đà Nẵng ",
+"id": 3,
+"img": "https://vietnamembassy-arabsaudi.org/wp-content/uploads/2018/10/canh-dep-tai-da-nang-1.jpg"
+},
+{
+"place": "Nha Trang",
+"id": 4,
+"img": "https://lh3.googleusercontent.com/proxy/BKLQyPu3Bxecs7-oD-D6Cg7N39QxHgBZM3MBmIAEnlSG__4MUoO-C-evHRVf7daL4PizAyF7feBQqH72DkSsBvB4pH1y64Alh9WyfTOVd2S6y4ktvx-0MgRLWrODZXQ0szaXBfTUXsRvCxcRCQ22o4bkwyL7ztVsMT5SQbJFdw"
+},
+{
+"place": "Hà Giang",
+"id": 5,
+"img": "https://lh3.googleusercontent.com/proxy/RkNknbDv1aftuW2Igp_xNBYuLtWmwXofCi3ba01HwdoBKrSTQT-RyAlEdixwKN9DA7rvDeS7j_asaWl9Po5dNP744zVylWkzMkhZn8nOVHwGFicHcs8"
+},
+{
+"place": "Hạ Long",
+"id": 6,
+"img": "https://kenhthoitiet.vn/wp-content/uploads/2018/07/2f9e78c77bcba0e9bcb83a1791d4e170.jpg"
+},
+{
+"place": "Đà lạt",
+"id": 7,
+"img": "https://mytourcdn.com/upload_images/Image/Location/28_10_2015/Du-lich-da-lat-mua-dong-mytour-1.jpg"
+}
+]
 }

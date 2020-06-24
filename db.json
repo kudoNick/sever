@@ -3,7 +3,7 @@
     {
       "place": "Hà Nội",
       "id": 1,
-      "img": "https://khoahocphattrien.vn/Images/Uploaded/Share/2017/08/09/44.jpg"
+      "img": "https://khoahocphattrien.vn/Images/Uploaded/Share/2017/08/09/44.jpg" 
     },
     {
       "place": "Hồ Chí Minh",
@@ -36,11 +36,16 @@
       "img": "https://mytourcdn.com/upload_images/Image/Location/28_10_2015/Du-lich-da-lat-mua-dong-mytour-1.jpg"
     }
   ],
-  "childPlace"[
-  {
-      "place": "Hà Nội",
-      "id": 1,
-      "img": "https://khoahocphattrien.vn/Images/Uploaded/Share/2017/08/09/44.jpg"
-}
-  ]
+  "chilPlace": [
+        {
+        "name" :"Hà nội"
+        },
+        {
+          "name" :"Hồ chí minh"
+        },
+        {
+          "name" :"Đà nẵng"
+        }
+      ]
+
 }

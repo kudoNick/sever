@@ -38,12 +38,18 @@
   ],
   "chilPlace": [
         {
+        "placeId" :1,
+        "id" : 1,
         "name" :"Hà nội"
         },
         {
+          "placeId" :1,
+        "id" : 2,
           "name" :"Hồ chí minh"
         },
         {
+          "placeId" :2,
+        "id" : 3,
           "name" :"Đà nẵng"
         }
       ]

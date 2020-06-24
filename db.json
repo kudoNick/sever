@@ -70,27 +70,110 @@
         {
           "placeId" :1,
         "id" : 6,
-          "namePlace" :"Phố cổ Hà Nội",
-          "img":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/07/pho-co-ha-noi-1-768x498.jpg"
+          "namePlace" :"Chùa Trấn Quốc",
+          "img":"http://file1.dangcongsan.vn/DATA/0/2019/08/tran_quoc_1__the_duong_1-12_50_21_499.jpg"
         },
         {
           "placeId" :1,
         "id" : 7,
-          "namePlace" :"Chùa Trấn Quốc",
-          "img":"http://file1.dangcongsan.vn/DATA/0/2019/08/tran_quoc_1__the_duong_1-12_50_21_499.jpg"
+          "namePlace" :"Hồ Tây",
+          "img":"https://royalhotelnghitam.com/Pictures/0C9D91D2-AED5-4475-B19C-C4109BE40A32.jpg"
         },
         {
-          "placeId" :2,
-        "id" : 1,
-          "namePlace" :"Chùa Trấn Quốc",
-          "img":"http://file1.dangcongsan.vn/DATA/0/2019/08/tran_quoc_1__the_duong_1-12_50_21_499.jpg"
+          "placeId" :1,
+        "id" : 8,
+          "namePlace" :"Nhà hát lớn Hà Nội",
+          "img":"https://hanoi1000.vn/wp-content/uploads/2019/09/nha-hat-lon.jpg"
         },
         {
-          "placeId" :2,
-        "id" : 2,
-          "namePlace" :"Chùa Trấn Quốc",
-          "img":"http://file1.dangcongsan.vn/DATA/0/2019/08/tran_quoc_1__the_duong_1-12_50_21_499.jpg"
+          "placeId" :1,
+        "id" : 9,
+          "namePlace" :"Nhà tù Hỏa Lò",
+          "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/nha-tu-hoa-lo.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 10,
+          "namePlace" :"Hoàng thành Thăng Long",
+          "http://www.vita.vn/wp-content/uploads/2016/11/Hoangthanh01-990x693.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 11,
+          "namePlace" :"Cột cờ Hà Nội",
+          "https://wall.vn/wp-content/uploads/2020/04/cot-co-ha-noi.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 12,
+          "namePlace" :"Chùa Một Cột",
+          "https://mytourcdn.com/upload_images/Image/Location/24_2_2015/9-Du-lich-chua-mot-cot-mytour-1.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 13,
+          "namePlace" :" Cầu Long Biên",
+          "http://nhipsonghanoi.hanoimoi.com.vn/Upload/thuhang/2018/11/7/6.gif"
+        },
+        {
+          "placeId" :1,
+        "id" : 14,
+          "namePlace" :"Chợ Đồng Xuân",
+          "https://phan-mem-quan-ly-ban-hang.com/photos/1/cho%20dong%20xuan.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 15,
+          "namePlace" :"Ga Hà Nội",
+          "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/ga-ha-noi.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 16,
+          "namePlace" :"Sân vận động quốc gia mỹ Đình",
+          "https://www.coninco.com.vn/sites/default/files/28.%20SV%C4%90%20M%E1%BB%B9%20%C4%91%C3%ACnh1.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 17,
+          "namePlace" :"Cung văn hóa hữu nghị Việt – Xô",
+          "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/cung-van-hoa-huu-nghi.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 18,
+          "namePlace" :"Nhà khách chính phủ",
+          "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/nha-khach-chinh-phu.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 19,
+          "namePlace" :"Đền Quán Thánh",
+          "https://wall.vn/wp-content/uploads/2020/04/cot-co-ha-noi.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 20,
+          "namePlace" :"Tháp nước Hàng Đậu",
+          "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/thap-nuoc-hang-dau-1.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 21,
+          "namePlace" :"Nhà thờ Hàm Long",
+          "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/nha-tho-ham-long.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 22,
+          "namePlace" :"Công viên Lê Nin",
+          "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/cong-vien-lenin.jpg"
+        },
+        {
+          "placeId" :1,
+        "id" : 23,
+          "namePlace" :"Con đường gốm sứ",
+          "https://image.tinnhanhchungkhoan.vn/w660/Uploaded/2020/wpxlcdjwi/2019_08_15/09_dxhy.jpg"
         }
-    
       ]
 }

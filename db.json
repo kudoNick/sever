@@ -158,22 +158,59 @@
           "img":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/thap-nuoc-hang-dau-1.jpg"
         },
         {
-          "placeId" :1,
+          "placeId" :2,
         "id" : 21,
-          "namePlace" :"Nhà thờ Hàm Long",
-          "img":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/nha-tho-ham-long.jpg"
+          "namePlace" :"Dinh Độc Lập",
+          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dinh-doc-lap-1.png"
         },
         {
-          "placeId" :1,
+          "placeId" :2,
         "id" : 22,
-          "namePlace" :"Công viên Lê Nin",
-          "img":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/cong-vien-lenin.jpg"
+          "namePlace" :"Nhà Thờ Đức Bà",
+          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/nha-tho-duc-ba-1.png"
         },
         {
-          "placeId" :1,
+          "placeId" :2,
         "id" : 23,
-          "namePlace" :"Con đường gốm sứ",
-          "img":"https://image.tinnhanhchungkhoan.vn/w660/Uploaded/2020/wpxlcdjwi/2019_08_15/09_dxhy.jpg"
+          "namePlace" :"Khu du lịch Suối Tiên",
+          "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/suoi-tien-1.png"
+        },
+        {
+          "placeId" :2,
+        "id" : 24,
+          "namePlace" :"Phố đi bộ Nguyễn Huệ",
+          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dinh-doc-lap-1.png"
+        },
+        {
+          "placeId" :2,
+        "id" : 25,
+          "namePlace" :"Bảo tàng Lịch sử Việt Nam",
+          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/bao-tang-lich-su-viet-nam.png"
+        },
+        {
+          "placeId" :2,
+        "id" : 26,
+          "namePlace" :" Chợ Bến Thành",
+          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/cho-ben-thanh-1.png"
+        },
+        {
+          "placeId" :2,
+        "id" : 27,
+          "namePlace" :"Địa đạo Củ Chi",
+          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dia-dao-cu-chi.png"
+        },
+        {
+          "placeId" :2,
+        "id" : 28,
+          "namePlace" :"Dinh Độc Lập",
+          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dinh-doc-lap-1.png"
+        },
+        {
+          "placeId" :2,
+        "id" : 29,
+          "namePlace" :"Cầu Ánh Sao",
+          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/cau-anh-sao.png"
         }
+
       ]
 }
